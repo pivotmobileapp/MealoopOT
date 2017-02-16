@@ -79,15 +79,15 @@
 <splash src="Default-Portrait@2x.png" platform="ios" width="1536" height="2048" />
 <splash src="Default-Landscape@2x.png" platform="ios" width="2048" height="1536" />
 
-<splash platform="android" qualifier="ldpi" src="screen-ldpi-portrait.png" />
+<!--<splash platform="android" qualifier="ldpi" src="screen-ldpi-portrait.png" />
 <splash platform="android" qualifier="mdpi" src="screen-mdpi-portrait.png" />
 <splash platform="android" qualifier="hdpi" src="screen-hdpi-portrait.png" />
 <splash platform="android" qualifier="xhdpi" src="screen-xhdpi-portrait.png" />
 <splash platform="android" qualifier="port-xxhdpi" src="screen-xxhdpi-portrait.png" />
-<splash platform="android"  qualifier="land-ldpi"src="screen-ldpi-landscape.png" />
+<splash platform="android" qualifier="land-ldpi"src="screen-ldpi-landscape.png" />
 <splash platform="android"  qualifier="land-mdpi"src="screen-mdpi-landscape.png" />
 <splash  platform="android" qualifier="land-hdpi"src="screen-hdpi-landscape.png" />
-<splash platform="android" qualifier="land-xhdpi" src="screen-xhdpi-landscape.png"  />
+<splash platform="android" qualifier="land-xhdpi" src="screen-xhdpi-landscape.png"  />-->
 <!--<splash src="screen-xxhdpi-landscape.png" platform="android" qualifier="land-xxhdpi" />-->
           
     <content src="index.html" />
