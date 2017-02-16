@@ -3,7 +3,7 @@
     xmlns:gap = "http://phonegap.com/ns/1.0"
     xmlns:android = "http://schemas.android.com/apk/res/android"
     id        = "com.mealoop.orders"
-    version   = "1.0.2">
+    version   = "1.0.3">
     <name>Mealoop Manager</name>
     <description>
         Mealoop Manager
@@ -88,8 +88,6 @@
 <splash platform="android" qualifier="xhdpi" src="screen-xhdpi-portrait.png" />
 <splash platform="android" qualifier="land-xhdpi" src="screen-xhdpi-landscape.png" />
 <splash platform="android" qualifier="port-xxhdpi" src="screen-xxhdpi-portrait.png" />
-
-
 
 
 <!--<splash src="screen-xxhdpi-landscape.png" platform="android" qualifier="land-xxhdpi" />-->
