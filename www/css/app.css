@@ -18,7 +18,7 @@ padding:8px;
 .orange-header
 {
 max-width:100%;
-background:#B1347C;
+background:#CD0000;
 color:#fff;
 padding-top:10px;
 padding-bottom:15px;
@@ -36,7 +36,7 @@ margin:auto;
 max-width:70%;
 }
 .navigation-bar{
-background:#B1347C;
+background:#CD0000;
 color:#fff;
 border:none;
 }
@@ -626,7 +626,7 @@ position:relative;
 }
 
 .new-tag{
-background: #B1347C none repeat scroll 0 0;
+background: #CD0000 none repeat scroll 0 0;
 color: #fff;
 font-family: arial;
 font-size: 11px;
@@ -637,7 +637,7 @@ line-height:normal;
 }
 
 .new-tags{
-background: #B1347C none repeat scroll 0 0;
+background: #CD0000 none repeat scroll 0 0;
 color: #fff;
 font-family: arial;
 font-size: 11px;
@@ -674,7 +674,7 @@ background:#F0EBEB;
 }*/
 
 .orange-text{
-color:#B1347C;
+color:#CD0000;
 }
 
 .new-orders .orange-text{
@@ -691,7 +691,7 @@ vertical-align: -10%;
 .status .icon
 {
 /*color:#EEC65A;*/
-color:#B1347C;
+color:#CD0000;
 }
 
 .new-orders .status .icon.icon-green,
@@ -707,7 +707,7 @@ vertical-align:-5%;
 .new-orders .status .icon.icon-red,
 .icon.icon-red
 {
-color:#B1347C;
+color:#CD0000;
 }
 
 .icon.icon-orange,
@@ -883,7 +883,7 @@ background:rgba(0,0,0,0) !important;
   border-top: 1.1em solid rgba(247,93,52, 0.2);
   border-right: 1.1em solid rgba(247,93,52, 0.2);
   border-bottom: 1.1em solid rgba(247,93,52, 0.2);
-  border-left: 1.1em solid #B1347C;
+  border-left: 1.1em solid #CD0000;
   -webkit-transform: translateZ(0);
   -ms-transform: translateZ(0);
   transform: translateZ(0);
@@ -925,7 +925,7 @@ display:table;
 -webkit-border-radius: 2px;
 border-radius: 2px; 
 -khtml-border-radius: 2px;
-background:#B1347C;
+background:#CD0000;
 }
 
 .status.cancelled,
@@ -942,7 +942,7 @@ background:#2c9f2c;
 }
 .status.pending
 {
-background:#B1347C;
+background:#CD0000;
 }
 .status.accepted,
 .status.acknowledged
