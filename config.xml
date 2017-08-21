@@ -136,8 +136,8 @@
         </application>
     </gap:config-file>    
     
-     
-    <plugin name="cordova-custom-config" version="*"/>
+    <platform name="ios">
+        <plugin name="cordova-custom-config" version="*"/>
     <config-file platform="ios" target="*-Info.plist" parent="NSLocationAlwaysUsageDescription">
         <string>Mealoop needs permission to function.</string>
     </config-file>
@@ -147,6 +147,10 @@
     <config-file platform="ios" target="*-Info.plist" parent="NSMicrophoneUsageDescription">
         <string>Mealoop needs permission to function</string>
     </config-file>
+	</platform>
+   
+   <platform name="android">
+
 	</platform>
     
 </widget>
