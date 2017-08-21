@@ -3,8 +3,8 @@
     xmlns:gap = "http://phonegap.com/ns/1.0"
     xmlns:android = "http://schemas.android.com/apk/res/android"
     id        = "com.mealoop.orders"
-    versionCode = "10.8"
-    version   = "1.0.8">
+    versionCode = "10.9"
+    version   = "1.0.9">
     <name>Mealoop Manager</name>
     <description>
         Mealoop Manager
@@ -136,21 +136,6 @@
         </application>
     </gap:config-file>    
     
-    <platform name="ios">
-        <plugin name="cordova-custom-config" version="*"/>
-    <config-file platform="ios" target="*-Info.plist" parent="NSLocationAlwaysUsageDescription">
-        <string>Mealoop needs permission to function.</string>
-    </config-file>
-    <config-file platform="ios" target="*-Info.plist" parent="NSLocationWhenInUseUsageDescription">
-        <string>Mealoop needs permission to function.</string>
-    </config-file>
-    <config-file platform="ios" target="*-Info.plist" parent="NSMicrophoneUsageDescription">
-        <string>Mealoop needs permission to function</string>
-    </config-file>
-	</platform>
-   
-   <platform name="android">
-
-	</platform>
+    
     
 </widget>
